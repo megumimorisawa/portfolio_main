@@ -84,7 +84,7 @@
                         <p>レベル　★☆☆☆☆</p>
                         <p>作成時間　5時間</p>
                         <div class="works_content_btn">
-                            <a href="http://mori3537.php.xdomain.jp/site_copy1/" target="_blank">MORE</a>
+                            <a href="http://mori3537.php.xdomain.jp/site_copy2/" target="_blank">MORE</a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         <p>レベル　★★☆☆☆</p>
                         <p>作成時間　2日</p>
                         <div class="works_content_btn">
-                            <a href="http://mori3537.php.xdomain.jp/site_copy1/" target="_blank">MORE</a>
+                            <a href="http://mori3537.php.xdomain.jp/site_copy3/" target="_blank">MORE</a>
                         </div>
                     </div>
                 </div>
@@ -115,10 +115,11 @@
                     <h4 class="works_content_name_sub2">作品4</h4>
                     <div class="works_content_txt2">
                         <p>サイト模写</p>
+                        <p>※作成中</p>
                         <p>レベル　★★★☆☆</p>
                         <p>作成時間　4日</p>
                         <div class="works_content_btn">
-                            <a href="http://mori3537.php.xdomain.jp/site_copy1/" target="_blank">MORE</a>
+                            <a href="http://mori3537.php.xdomain.jp/site_copy4/" target="_blank">MORE</a>
                         </div>                    
                     </div>
                 </div>
@@ -136,7 +137,7 @@
                         <p>レベル　★★★★☆</p>
                         <p>作成時間　1ヶ月</p>
                         <div class="works_content_btn">
-                            <a href="http://mori3537.php.xdomain.jp/site_copy1/" target="_blank">MORE</a>
+                            <a href="http://mori3537.php.xdomain.jp/sanctuary_places/" target="_blank">MORE</a>
                         </div>
                     </div>
                 </div>
@@ -144,10 +145,15 @@
         </section>
 
         <section id="contact">
-            <h2 id="contact_ttl">Contact Form</h2>
-            <p>お気軽に下記メールアドレスまでご連絡ください。</p>
-        
-            <p>araki112318@gmail.com</p>
+            <div id="contact_box">
+                <h2 id="contact_ttl">Contact Form</h2>
+                <p id="contact_box_txt">お気軽に下記メールアドレスまでご連絡ください。</p>
+                <div id="mail_link">
+                    <a href="mailto:araki112318@gmail.com">メールはこちらから</a><br/>
+                    <a href="mailto:araki112318@gmail.com"><img src="img/mail_icon.png" id="mail_icon"></a>
+                </div>
+                
+            </div>
         </section>  
 
     
