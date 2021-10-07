@@ -270,6 +270,7 @@ header h1 {
     border-top: solid 15px #00ff00;
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
     font-weight: 700;
+    line-height: 2;
 }
 
 @media (max-width: 1024px) {
